@@ -15,6 +15,7 @@ public class UI {
         this.service = service;
     }
 
+
     public void printMenu() {
         System.out.println("11. Afiseaza toti studentii.");
         System.out.println("12. Afiseaza toate temele.");
