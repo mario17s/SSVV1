@@ -41,6 +41,7 @@ public class UI {
         }
     }
 
+
     public void uiPrintAllTeme() {
         for(Tema tema : service.findAllTeme()) {
             System.out.println(tema);
