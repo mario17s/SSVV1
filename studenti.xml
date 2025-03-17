@@ -4,6 +4,10 @@
         <Nume>hghggh</Nume>
         <Grupa>567</Grupa>
     </student>
+    <student ID="23">
+        <Nume>fdf</Nume>
+        <Grupa>123</Grupa>
+    </student>
     <student ID="2">
         <Nume>Maria</Nume>
         <Grupa>222</Grupa>
@@ -15,6 +19,10 @@
     <student ID="-1">
         <Nume>grfgf</Nume>
         <Grupa>456</Grupa>
+    </student>
+    <student ID="90">
+        <Nume> </Nume>
+        <Grupa>234</Grupa>
     </student>
     <student ID="8">
         <Nume>hghgg</Nume>
