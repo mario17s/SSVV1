@@ -13,7 +13,7 @@ import static org.mockito.Mockito.*;
 import static org.mockito.Mockito.times;
 
 @Tag("AppTest")
-public class ExampleTest {
+public class AppTest {
 
     @Mock
     private StudentXMLRepository studentXmlRepo;
