@@ -12,7 +12,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 import static org.mockito.Mockito.*;
 import static org.mockito.Mockito.times;
 
-@Tag("ExamplePack")
+@Tag("AppTest")
 public class ExampleTest {
 
     @Mock
