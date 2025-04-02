@@ -20,6 +20,10 @@
         <Nume>grfgf</Nume>
         <Grupa>456</Grupa>
     </student>
+    <student ID="-80">
+        <Nume>gfgfg</Nume>
+        <Grupa>934</Grupa>
+    </student>
     <student ID="90">
         <Nume> </Nume>
         <Grupa>234</Grupa>
@@ -27,5 +31,9 @@
     <student ID="8">
         <Nume>hghgg</Nume>
         <Grupa>234</Grupa>
+    </student>
+    <student ID="1000">
+        <Nume>mama</Nume>
+        <Grupa>936</Grupa>
     </student>
 </Entitati>
